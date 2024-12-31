@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\test-project\\VisualStudio\\engineOpenGL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\source\\OGL3D\\Game\\OGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|solutionrelative:engineOpenGL\\OGL3D\\source\\OGL3D\\Game\\OGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\include\\OGL3D\\Game\\OGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|solutionrelative:engineOpenGL\\OGL3D\\include\\OGL3D\\Game\\OGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|solutionrelative:engineOpenGL\\Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|solutionrelative:engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\include\\OGL3D\\Window\\OWindows.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|solutionrelative:engineOpenGL\\OGL3D\\include\\OGL3D\\Window\\OWindows.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{74C0B9C6-2E85-46C5-AB7E-71FD8838F468}|engineOpenGL\\engineOpenGL.vcxproj|solutionrelative:engineOpenGL\\Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OWindows.cpp",
-              "DocumentMoniker": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp",
-              "RelativeDocumentMoniker": "engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp",
-              "ToolTip": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp",
-              "RelativeToolTip": "engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-31T14:28:55.394Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OGame.cpp",
+              "DocumentMoniker": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\source\\OGL3D\\Game\\OGame.cpp",
+              "RelativeDocumentMoniker": "engineOpenGL\\OGL3D\\source\\OGL3D\\Game\\OGame.cpp",
+              "ToolTip": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\source\\OGL3D\\Game\\OGame.cpp",
+              "RelativeToolTip": "engineOpenGL\\OGL3D\\source\\OGL3D\\Game\\OGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T15:26:20.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OGame.h",
+              "DocumentMoniker": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\include\\OGL3D\\Game\\OGame.h",
+              "RelativeDocumentMoniker": "engineOpenGL\\OGL3D\\include\\OGL3D\\Game\\OGame.h",
+              "ToolTip": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\include\\OGL3D\\Game\\OGame.h",
+              "RelativeToolTip": "engineOpenGL\\OGL3D\\include\\OGL3D\\Game\\OGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-31T15:26:06.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OWindows.cpp",
+              "DocumentMoniker": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp",
+              "RelativeDocumentMoniker": "engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp",
+              "ToolTip": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp",
+              "RelativeToolTip": "engineOpenGL\\OGL3D\\source\\OGL3D\\Window\\OWindows.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T14:28:55.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "OWindows.h",
               "DocumentMoniker": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\include\\OGL3D\\Window\\OWindows.h",
               "RelativeDocumentMoniker": "engineOpenGL\\OGL3D\\include\\OGL3D\\Window\\OWindows.h",
               "ToolTip": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\OGL3D\\include\\OGL3D\\Window\\OWindows.h",
               "RelativeToolTip": "engineOpenGL\\OGL3D\\include\\OGL3D\\Window\\OWindows.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-31T14:28:48.842Z",
               "EditorCaption": ""
@@ -62,7 +96,7 @@
               "RelativeDocumentMoniker": "engineOpenGL\\Game\\main.cpp",
               "ToolTip": "D:\\test-project\\VisualStudio\\engineOpenGL\\engineOpenGL\\Game\\main.cpp",
               "RelativeToolTip": "engineOpenGL\\Game\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-31T14:25:51.836Z",
               "EditorCaption": ""
